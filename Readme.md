@@ -23,7 +23,7 @@
 
 ```yaml
 name       : Ayush Pandey
-location   : Bengaluru,Karnataka
+location   : Amethi, India (RGIPT)
 education  : B.Tech — Computer Science & Design Engineering (CPI: 8.72)
 institute  : Rajiv Gandhi Institute of Petroleum Technology
 batch      : 2022 – 2026
@@ -91,7 +91,7 @@ fun_fact   : "Top 1% in JEE Advanced 2022 among 2.5 million candidates 🎯"
 <tr>
 <td width="50%" valign="top">
 
-### 📦 [Stockmetry](https://github.com/AyushPandey2411) — AI Inventory Intelligence
+### 📦 [Stockmetry](https://github.com/AyushPandey2411/stockmetry) — AI Inventory Intelligence
 `Jan 2026 – Mar 2026`
 
 **TypeScript • FastAPI • PostgreSQL • XGBoost • Isolation Forest • Zustand**
@@ -103,7 +103,7 @@ fun_fact   : "Top 1% in JEE Advanced 2022 among 2.5 million candidates 🎯"
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [WillTrail](https://github.com/AyushPandey2411) — Emergency Medical Vault
+### 🏥 [WillTrail](https://github.com/AyushPandey2411/WillTrail) — Emergency Medical Vault
 `Jan 2026 – Feb 2026`
 
 **React 18 • Node.js • MongoDB • AES-256 • PDFKit • Vite**
@@ -117,7 +117,7 @@ fun_fact   : "Top 1% in JEE Advanced 2022 among 2.5 million candidates 🎯"
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [EduGanga](https://github.com/AyushPandey2411) — EdTech Marketplace
+### 🎓 [EduGanga](https://github.com/AyushPandey2411/EduGanga) — EdTech Marketplace
 `Oct 2024 – Nov 2024`
 
 **React.js • Node.js • MongoDB • Tailwind CSS • Razorpay • Cloudinary**
@@ -129,7 +129,7 @@ fun_fact   : "Top 1% in JEE Advanced 2022 among 2.5 million candidates 🎯"
 </td>
 <td width="50%" valign="top">
 
-### 📊 [TrendPulse](https://github.com/AyushPandey2411) — E-Commerce Analytics Dashboard
+### 📊 [TrendPulse](https://github.com/AyushPandey2411/TrendPulse-Ecommerce-Analytics-Dashboard) — E-Commerce Analytics Dashboard
 `Aug 2025 – Sep 2025`
 
 **Python • SQL • Power BI • Pandas • Prophet • ETL**
@@ -143,7 +143,7 @@ fun_fact   : "Top 1% in JEE Advanced 2022 among 2.5 million candidates 🎯"
 <tr>
 <td width="50%" valign="top">
 
-### 🏏 [IPL 2022 Analyzer](https://github.com/AyushPandey2411) — Performance Predictor
+### 🏏 [IPL 2022 Analyzer](https://github.com/AyushPandey2411/IPL-Analytics-Platform) — Performance Predictor
 `Feb 2025 – Mar 2025`
 
 **Python • SQL • Pandas • scikit-learn • Streamlit**
@@ -155,7 +155,7 @@ fun_fact   : "Top 1% in JEE Advanced 2022 among 2.5 million candidates 🎯"
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ [Image Similarity Engine](https://github.com/AyushPandey2411) — Recommendation System
+### 🖼️ [Image Similarity Engine](https://github.com/AyushPandey2411/ImageRecommendationSystem) — Recommendation System
 `Aug 2024 – Sep 2024`
 
 **Python • TensorFlow • Keras • ResNet50 • OpenCV • Streamlit**
