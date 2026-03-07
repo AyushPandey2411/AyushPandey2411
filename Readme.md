@@ -23,7 +23,7 @@
 
 ```yaml
 name       : Ayush Pandey
-location   : Bengaluru, India (RGIPT)
+location   : Bengaluru, India
 education  : B.Tech — Computer Science & Design Engineering (CPI: 8.72)
 institute  : Rajiv Gandhi Institute of Petroleum Technology
 batch      : 2022 – 2026
